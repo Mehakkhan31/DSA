@@ -30,7 +30,7 @@
     
 // }
 
-package array;
+// package array;
 import java.util.*;
 
 public class LinearSearch {
